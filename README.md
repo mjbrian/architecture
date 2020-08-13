@@ -1,16 +1,9 @@
-# architecture
-DDD
+# About
 
+This project is a learning path, documenting basic princliples, guide-lines, philosophy as well as concrete implementation on general forms of software architecture
 
-## Web Dev
+## Architecture
 
-### Front-End
-* Flexbox
-* Grid
-
-One of, 
-* Bootstrap
-* Tailwind CSS
-* Materialize
-* Bulma
-
+- N-Tier
+- DDD
+- Vertical Slice
